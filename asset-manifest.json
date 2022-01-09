@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/duit-assessment/static/css/main.2961604c.css",
+    "main.js": "/duit-assessment/static/js/main.b1abec5e.js",
+    "index.html": "/duit-assessment/index.html",
+    "main.2961604c.css.map": "/duit-assessment/static/css/main.2961604c.css.map",
+    "main.b1abec5e.js.map": "/duit-assessment/static/js/main.b1abec5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2961604c.css",
+    "static/js/main.b1abec5e.js"
+  ]
+}
